@@ -7,6 +7,11 @@
 ```sh
 thinkjs new demo -m
 ```
+### 新建模块
+
+添加模块直接通过 `thinkjs` 命令即可完成。
+在当前项目目录下，执行 `thinkjs module xxx`，即可创建名为 xxx 的模块。
+如果模块名已经存在，则无法创建
 
 ### 项目结构
 
